@@ -1,5 +1,6 @@
 require 'open3'
 #on reboot stuff.
+#RUN WITH "ruby reaverscript.rb" at terminal only in a directory you are willing to fill with logs
 
 device=""
 channel=""
